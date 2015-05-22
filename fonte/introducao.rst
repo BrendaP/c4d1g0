@@ -1,7 +1,10 @@
 Introdução
 ============
 
-É claro que a vida é boa 
-E a alegria, a única indizível emoção
+isso de querer ser 
+exatamente aquilo 
+que a gente é 
+ainda vai 
+nos levar além
 
 .. index:: lorem, ipsum
