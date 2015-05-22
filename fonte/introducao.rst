@@ -1,7 +1,7 @@
 Introdução
 ============
 
-É claro que a vida é boa E a alegria, a única indizível emoção É claro que te acho linda Em ti bendigo o amor das coisas simples É claro que te amo E tenho tudo para ser feliz Mas acontece que eu sou triste...
-
+É claro que a vida é boa 
+E a alegria, a única indizível emoção
 
 .. index:: lorem, ipsum
