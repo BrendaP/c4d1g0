@@ -1,10 +1,6 @@
 Introdução
 ============
 
-Isso de querer ser 
-Exatamente aquilo 
-Que a gente é 
-Ainda vai 
-Nos levar além
+Você pode dizer adeus a sua família e a seus amigos e afastar-se milhas e milhas e, ao mesmo tempo, carregá-los em seu coração, em sua mente, em seu estômago, pois você não apenas vive no mundo, mas o mundo vive em você.
 
 .. index:: lorem, ipsum
