@@ -1,12 +1,5 @@
 Desenvolvimento
 ===============
 
-Lá onde mora o amor
-não há dor, não há tristeza,
-lá tem cor, lá tem riqueza,
-lá tem bem, lá tem nobreza.
-Lá onde mora a amizade
-não há rancor, nem falsidade,
-lá tem respeito, lá tem verdade,
-lá tem afeto, lá tem cumplicidade.
+Acho que, se a gente pudesse correr sem nunca se cansar, nunca mais iria querer parar. Mas às vezes existem razões muito especiais para se parar
 .. index:: nullam, facilisis
